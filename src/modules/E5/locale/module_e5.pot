@@ -1,0 +1,281 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Zikula component\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-02 23:19+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: lib/E5/Version.php:20
+msgid "A HTML5 WYSIWYG editor"
+msgstr ""
+
+#: lib/E5/Version.php:21
+msgid "E5"
+msgstr ""
+
+#. !url must be different to displayname
+#: lib/E5/Version.php:23
+msgid "e5"
+msgstr ""
+
+#: lib/E5/Version.php:37
+msgid "E5 editor"
+msgstr ""
+
+#: lib/E5/Version.php:42
+msgid "E5 transform"
+msgstr ""
+
+#: lib/E5/Api/User.php:46
+msgid "Web link"
+msgstr ""
+
+#: lib/E5/Api/User.php:51
+msgid "bolded text"
+msgstr ""
+
+#: lib/E5/Api/User.php:56
+msgid "italicized text"
+msgstr ""
+
+#: lib/E5/Api/User.php:61 lib/E5/Api/User.php:62
+msgid "underlined text"
+msgstr ""
+
+#: lib/E5/Api/User.php:67
+msgid "strikethrough text"
+msgstr ""
+
+#: lib/E5/Api/User.php:72
+msgid "subscripted text"
+msgstr ""
+
+#: lib/E5/Api/User.php:77
+msgid "superscripted text"
+msgstr ""
+
+#: lib/E5/Api/User.php:82
+msgid "Horrizontal line"
+msgstr ""
+
+#: lib/E5/Api/User.php:87 lib/E5/Api/User.php:92 lib/E5/Api/User.php:97
+#: lib/E5/Api/User.php:102
+msgid "centered text"
+msgstr ""
+
+#: lib/E5/Api/User.php:107 lib/E5/Api/User.php:110
+msgid "marked text"
+msgstr ""
+
+#: lib/E5/Api/User.php:115
+msgid "Table"
+msgstr ""
+
+#: lib/E5/Api/User.php:120
+msgid "Image"
+msgstr ""
+
+#: lib/E5/Api/User.php:125 lib/E5/Api/User.php:130
+msgid "indent"
+msgstr ""
+
+#: lib/E5/Api/User.php:135 lib/E5/Api/User.php:138
+msgid "Monospace"
+msgstr ""
+
+#: lib/E5/Api/User.php:143
+msgid "Ordered list"
+msgstr ""
+
+#: lib/E5/Api/User.php:148
+msgid "Unordered list"
+msgstr ""
+
+#: lib/E5/Api/User.php:153
+msgid "Key"
+msgstr ""
+
+#: lib/E5/Api/User.php:156
+msgid "ctr-c"
+msgstr ""
+
+#: lib/E5/Api/User.php:161
+msgid "Code"
+msgstr ""
+
+#: lib/E5/Api/User.php:169
+msgid "Undo"
+msgstr ""
+
+#: lib/E5/Api/User.php:174
+msgid "Redo"
+msgstr ""
+
+#: lib/E5/Api/User.php:179
+msgid "Text format"
+msgstr ""
+
+#: lib/E5/Api/User.php:182
+msgid "Normal"
+msgstr ""
+
+#: lib/E5/Api/User.php:183
+msgid "Paragraph"
+msgstr ""
+
+#: lib/E5/Api/User.php:184
+msgid "Heading 1"
+msgstr ""
+
+#: lib/E5/Api/User.php:185
+msgid "Heading 2"
+msgstr ""
+
+#: lib/E5/Api/User.php:186
+msgid "Heading 3"
+msgstr ""
+
+#: lib/E5/Api/User.php:187
+msgid "Heading 4"
+msgstr ""
+
+#: lib/E5/Api/User.php:188
+msgid "Heading 5"
+msgstr ""
+
+#: lib/E5/Api/User.php:189
+msgid "Heading 6"
+msgstr ""
+
+#: lib/E5/Api/User.php:190
+msgid "Address"
+msgstr ""
+
+#: lib/E5/Api/User.php:191
+msgid "Formatted"
+msgstr ""
+
+#: lib/E5/Api/User.php:196 lib/E5/Api/User.php:199
+msgid "Font"
+msgstr ""
+
+#: lib/E5/Api/User.php:200
+msgid "Arial"
+msgstr ""
+
+#: lib/E5/Api/User.php:201
+msgid "Courier"
+msgstr ""
+
+#: lib/E5/Api/User.php:202
+msgid "Times New Roman"
+msgstr ""
+
+#: lib/E5/Api/User.php:207
+msgid "Font size"
+msgstr ""
+
+#: lib/E5/Api/User.php:210
+msgid "Size"
+msgstr ""
+
+#: lib/E5/Api/User.php:222
+msgid "Text color"
+msgstr ""
+
+#: lib/E5/Api/User.php:227
+msgid "Background color"
+msgstr ""
+
+#: lib/E5/Api/Admin.php:28
+msgid "Module preferences"
+msgstr ""
+
+#: lib/E5/Api/Admin.php:33 templates/admin/modifyconfig.tpl:5
+msgid "Settings"
+msgstr ""
+
+#: lib/E5/Handler/ModifyConfig.php:56 lib/E5/Handler/Modify.php:115
+msgid "Done! Configuration has been updated"
+msgstr ""
+
+#: lib/E5/Handler/Modify.php:25
+msgid "Modify module settings"
+msgstr ""
+
+#: lib/E5/Handler/Modify.php:36
+#, php-format
+msgid "Article with id %s not found"
+msgstr ""
+
+#: lib/E5/Handler/Modify.php:39
+msgid "Create module settings"
+msgstr ""
+
+#: templates/editor.tpl:44
+msgid "Smiley"
+msgstr ""
+
+#: templates/admin/modules.tpl:4
+msgid "Modules preferences"
+msgstr ""
+
+#: templates/admin/modules.tpl:8
+msgid "Add module"
+msgstr ""
+
+#: templates/admin/modify.tpl:36 templates/admin/modify.tpl:37
+msgid "Smilies"
+msgstr ""
+
+#: templates/admin/modify.tpl:46 templates/admin/modifyconfig.tpl:24
+msgid "Save"
+msgstr ""
+
+#: templates/admin/modify.tpl:47 templates/admin/modifyconfig.tpl:25
+msgid "Cancel"
+msgstr ""
+
+#: templates/admin/modify.tpl:53 templates/admin/modifyconfig.tpl:31
+msgid "Visit the E5 project site"
+msgstr ""
+
+#: templates/admin/modifyconfig.tpl:12
+msgid "Syntax highlighting"
+msgstr ""
+
+#: templates/admin/modifyconfig.tpl:17
+msgid "Javascript pop-ups for images"
+msgstr ""
+
+#: templates/tags/link.tpl:6
+msgid "Hyperlink"
+msgstr ""
+
+#: templates/tags/link.tpl:10 templates/tags/image.tpl:10
+msgid "Title"
+msgstr ""
+
+#: templates/tags/table.tpl:6
+msgid "Rows"
+msgstr ""
+
+#: templates/tags/table.tpl:10
+msgid "Cols"
+msgstr ""
+
+#: templates/tags/image.tpl:6
+msgid "Source"
+msgstr ""
