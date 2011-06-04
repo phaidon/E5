@@ -3,12 +3,12 @@
         <div>
             <fieldset>
                 <div class="z-formrow">
-                    <label for="src">{gt text="Hyperlink"}</label>
-                    <input type="text" value="http://" size="50" name="href" id="link_href">
+                    <label for="e5_link_href">{gt text="Hyperlink"}</label>
+                    <input type="text" value="http://" size="50" name="href" id="e5_link_href" />
                 </div>
                 <div class="z-formrow">
-                    <label for="src">{gt text="Title"}</label>
-                    <input type="text" value="" size="50" name="title" id="link_title">
+                    <label for="e5_link_title">{gt text="Title"}</label>
+                    <input type="text" value="" size="50" name="title" id="e5_link_title" />
                 </div>
             </fieldset>
         </div>
@@ -28,17 +28,10 @@
             if( node != '[object HTMLElement]' ) {
                 $('link_href').value = node;
             }
-            
+
         }
         $('link_title').value = getSelRange();
-
-        
-          
-          
-
-
-    }); 
-
+    });
 
     link = function(data) {
         if(data != false) {
@@ -56,9 +49,9 @@
             $('link_title').value = '';
 
             document.execCommand(
-                'inserthtml',
-                false,
-                '<a href='+data.href+'>'+title+'</a>'
+            'inserthtml',
+            false,
+            '<a href='+data.href+'>'+title+'</a>'
             );
         }
     }
